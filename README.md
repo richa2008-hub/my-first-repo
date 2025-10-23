@@ -1,4 +1,3 @@
-# my-first-repo
 # Welcome to My First Repository  
 
 Hello! 👋  
